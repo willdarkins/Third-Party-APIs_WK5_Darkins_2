@@ -1,7 +1,3 @@
-
-
-https://user-images.githubusercontent.com/84754257/133004479-73fb963e-b327-4e88-bc2f-eb8551993a1c.mp4
-
 # Work Day Scheduler Starter Code
 # Third-Party-APIs_WK5_Darkins
 ***
@@ -47,4 +43,8 @@ Please make sure to update tests as appropriate.
 ## Mockup
 ***
 Below is a short video diplaying the application's functionality:
+
+
+https://user-images.githubusercontent.com/84754257/133004495-83bbea51-295b-4f92-a6d6-f2ba6c1ce811.mp4
+
 
